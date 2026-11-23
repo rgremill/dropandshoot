@@ -29,7 +29,7 @@ One bullet at a time; about half a second to reload. A kill halves the remaining
 | Select (on the title) | Choose the starting level, 1 to 8. The wall colour shows which. |
 | Colour / B·W at B·W | Pause. Flip back to continue. |
 | Left difficulty A | Music off. |
-| Right difficulty A | Hard mode: gusts half again as strong. |
+
 
 Stella: F1 Select, F2 Reset, F4 Colour/B·W, F5/F6 left difficulty, F7/F8 right difficulty. On a Mac keyboard hold fn with the function key.
 
