@@ -68,7 +68,7 @@ The landing test is the hardware's own collision: if any pixel of a foot is over
 | 5 | Missiles |
 | 6 | Hawks; objects twice as often |
 | 7 | The sock's bomb is followed by a jet |
-| 8 | Strongest wind, black rock; repeats |
+| 8 | Strongest wind, black rock; repeats, and from the second time through every enemy comes in pairs |
 
 The wall colour tells you the level: red, orange, gold, green, blue, indigo, violet, black.
 
